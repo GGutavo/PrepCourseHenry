@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Repositorio de prueba prepcouse henry M2
+Este proyecto es una prueba de como clonar el repositorio y trabajar de manera local
